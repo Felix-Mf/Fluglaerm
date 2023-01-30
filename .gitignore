@@ -5,3 +5,4 @@ geojson_nolocal
 geojson_raster
 mitQGIS
 qgis-raster.html
+.gitlab-ci.yml
